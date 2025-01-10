@@ -1,0 +1,6 @@
+@AIBuddy_HostAddress = http://localhost:5100
+
+GET {{AIBuddy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
